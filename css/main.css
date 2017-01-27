@@ -11,14 +11,19 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+
+  font-family: sans-serif;
+
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
-
-  font-family: sans-serif;
 }
 
 body {
   margin: 0;
+}
+
+.img-flex {
+  width: 100%;
 }
